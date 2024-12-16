@@ -1,22 +1,28 @@
 ## 👋 Welcome to My GitHub Profile! I'm Lorenzo.
 
+### 🚀 About Me:
+AI Engineer passionate about building impactful solutions that scale. I transform complex data into meaningful insights, specializing in Generative AI.
+
+### 💼 Professional Focus:
+- **Generative AI**: Experience with LLMs, Stable Diffusion, and AI agents
+- **Data Science**: Strong background in Python and related Data Science packages (Pandas, Scikit-learn) with proven track record in pharmaceutical manufacturing and startup environments
+- **Tech Stack**: AWS, Python, Generative AI frameworks
+
+### 🛠️ Recent Projects:
+- 🎨 Satirical Cartoons Generator: Workflow combining Gemini 1.5 Pro and Flux 1.1 Pro
+- 🤖 Chat with your data: Conversational interfaces for operational data analysis
+
+### 🌟 What Drives Me:
+- Building AI solutions that create meaningful impact at scale
+- Continuous learning and exploration of cutting-edge technologies
+- Passion for tech entrepreneurship, personal finance, and biohacking
+- Active engagement in sports and personal development
+
 ---
 
-### 🧬 Professional Expertise:
-- **Life Sciences**: In-depth knowledge in Pharmaceutical R&D and Manufacturing, Digital Health, and Neuroscience.
-- **Data Science & Machine Learning**: Proficient in Python, with demonstrated capabilities in analyzing data and deriving insights to address engineering challenges in pharmaceutical and startup sectors.
-- **Multilingual**: Full professional proficiency in English, French and Italian.
+Feel free to explore my repositories and connect for collaborations on innovative AI projects!
 
----
-
-### 💡 Personal Drive:
-- **Curiosity & Learning**: Fueled by an insatiable curiosity, I'm committed to continuous self-improvement and learning across various domains.
-- **Passions & Projects**: Engaged in sports, Generative AI personal projects, and a keen consumer of content on tech entrepreneurship, personal finance, and biohacking.
-
----
-
-Feel free to explore my repositories and connect with me on shared interests and collaborations.
 <!---
-Blaise-g/Blaise-g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+lorenzogermini/lorenzogermini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
