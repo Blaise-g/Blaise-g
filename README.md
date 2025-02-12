@@ -6,10 +6,10 @@ AI Engineer passionate about building impactful solutions that scale. I transfor
 ### 💼 Professional Focus:
 - **Generative AI**: Experience with LLMs, Text2Img models, and agents frameworks
 - **Data Science**: Strong background in Python and related Data Science packages (Pandas, Scikit-learn) with proven track record in pharmaceutical manufacturing and startup environments
-- **Tech Stack**: AWS, Python, Generative AI frameworks (LangChain, CrewAI)
+- **Tech Stack**: AWS, Python, Generative AI frameworks
 
 ### 🛠️ Recent Projects:
-- 🎨 Satirical Cartoons Generator: Workflow combining Gemini 1.5 Pro and Flux 1.1 Pro
+- 🎨 Personal High School Tutor: upload your study materials to generate flashcards, tests, summaries and chat with your personal tutor
 - 🤖 Chat with your data: Conversational interfaces for operational data analysis
 
 ### 🌟 What Drives Me:
