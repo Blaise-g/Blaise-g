@@ -9,8 +9,8 @@ AI Engineer passionate about building impactful solutions that scale. I transfor
 - **Tech Stack**: AWS, Python, Generative AI frameworks
 
 ### 🛠️ Recent Projects:
-- 🎨 Personal High School Tutor: upload your study materials to generate flashcards, tests, summaries and chat with your personal tutor
-- 🤖 Chat with your data: Conversational interfaces for operational data analysis
+- 👨🏻‍🏫 Personal High School Tutor: upload your study materials to generate flashcards, tests, summaries and chat with your personal tutor
+- 🤖 Chat with your data: Conversational interfaces for operational data analysis in pharmaceutical manufacturing
 
 ### 🌟 What Drives Me:
 - Building AI solutions that create meaningful impact at scale
