@@ -1,26 +1,8 @@
-## 👋 Welcome to My GitHub Profile! I'm Lorenzo.
+I'm an AI product engineer: I ship AI products end-to-end, from the models and infrastructure to the interface people actually touch, and stay on the hook for whether the thing helps anyone. Full stack in the literal sense: backend, frontend, and the product calls in between.
 
-### 🚀 About Me:
-AI Engineer passionate about building impactful solutions that scale. I transform complex data into meaningful insights, specializing in Generative AI.
+These days that's the AI engine behind Complaion, a compliance platform for European SMEs getting and keeping ISO certifications. The interesting problem is making the agents in the background reliable enough to trust with real compliance work, and knowing when they're not. Before that: AI for pharma manufacturing at GSK, AI R&D in digital health, and a GenAI EdTech startup I built as founding engineer. The through-line hasn't changed: technical depth only matters when it meets a real user problem.
 
-### 💼 Professional Focus:
-- **Generative AI**: Experience with LLMs, Text2Img models, and agents frameworks
-- **Data Science**: Strong background in Python and related Data Science packages (Pandas, Scikit-learn) with proven track record in pharmaceutical manufacturing and startup environments
-- **Tech Stack**: AWS, Python, Generative AI frameworks
-
-### 🛠️ Recent Projects:
-- 👨🏻‍🏫 Personal High School Tutor: upload your study materials to generate flashcards, tests, summaries and chat with your personal tutor
-- 🤖 Chat with your data: Conversational interfaces for operational data analysis in pharmaceutical manufacturing
-
-### 🌟 What Drives Me:
-- Building AI solutions that create meaningful impact at scale
-- Continuous learning and exploration of cutting-edge technologies
-- Passion for tech entrepreneurship, personal finance, and biohacking
-- Active engagement in sports and personal development
-
----
-
-Feel free to explore my repositories and connect for collaborations on innovative AI projects!
+Outside work: sports, side projects, and rabbit holes on tech entrepreneurship and biohacking.
 
 <!---
 lorenzogermini/lorenzogermini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
